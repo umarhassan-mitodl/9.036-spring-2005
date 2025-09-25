@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "0b81f738-326e-51fa-3107-02d49fc72a5a",
+  "instructors": {
+    "content": [
+      "742c671b-83ff-dc26-94ec-01222480e506"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ed2784e2-7261-a469-b1d9-46a5c078f253",
+    "website": "9-036-the-visual-system-spring-2005"
+  },
+  "course_title": "The Visual System",
+  "course_description": "This comprehensive course on the visual system is designed to ground future researchers in the field of visual science and to provide scientists with an excellent basis for using the visual system as a model in research. In this graduate seminar, anatomical, neurophysiological, imaging and behavioral research is examined in an attempt to gain a better understanding of how information is processed in the primate visual system.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.036",
+  "course_image_thumbnail": {
+    "content": "549871dd-d68d-94ee-3a0e-6e7f3db4ff92",
+    "website": "9-036-the-visual-system-spring-2005"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "f63dac62-ed0e-4f87-81b5-2648bc79d696",
+  "site_short_id": "9.036-spring-2005",
+  "site_url_path": "courses/9-036-the-visual-system-spring-2005",
+  "title": "Course Metadata"
+}
